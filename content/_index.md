@@ -22,3 +22,9 @@ raw=true
     <li>Item 2</li>
 
 </ul>
+
+<hr />
+
+<h1>Same source but in shortcode</h1>
+
+{{ as_shortcode() }}
