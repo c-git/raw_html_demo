@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://c-git.github.io/raw_html_demo/sitemap.xml
