@@ -1,30 +1,8 @@
 +++
-raw=true
 +++
 
-<h1>Source</h1>
+# Links that work but fail `zola check`
 
-```html
+<https://github.com/pyenv/pyenv#usage>
 
-<ul>
-
-    <li>Item 1</li>
-    <li>Item 2</li>
-
-</ul>
-
-```
-
-<h1>Output</h1>
-<ul>
-
-    <li>Item 1</li>
-    <li>Item 2</li>
-
-</ul>
-
-<hr />
-
-<h1>Same source but in shortcode</h1>
-
-{{ as_shortcode() }}
+<https://www.cyberciti.biz/faq/how-do-i-add-jobs-to-cron-under-linux-or-unix-oses/>
