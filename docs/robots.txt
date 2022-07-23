@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://c-git.github.io/raw_html_demo/sitemap.xml
+Sitemap: https://c-git.github.io/zola_test/sitemap.xml
