@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://c-git.github.io/raw_html_demo/"
+base_url = "https://c-git.github.io/zola_test/"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
